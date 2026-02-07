@@ -46,7 +46,7 @@ sudo apt update && sudo apt install -y ffmpeg
 Clone repo lalu masuk folder project:
 ```bash
 git clone <repo-url>
-cd ai-twitter-vid-downloader
+cd x-vid-downloader
 ```
 
 ## Instalasi Dependency
